@@ -133,7 +133,7 @@ input, select {
 }
 
 #eyecatch{
-  background:url(../../20210216_sato/img/eyecatch.jpg) no-repeat;
+  background:url(../img/eyecatch.jpg) no-repeat;
   background-size:cover;
   height:600px;
   position:relative;
@@ -322,7 +322,7 @@ input, select {
 }
 
 .company{
-  background:url(../../20210216_sato/img/company.jpeg) no-repeat;
+  background:url(../img/company.jpeg) no-repeat;
   background-size:cover;
   width:48%;
   height:200px;
@@ -338,7 +338,7 @@ input, select {
 }
 
 .recruit{
-  background:url(../../20210216_sato/img/recruit.jpg) no-repeat;
+  background:url(../img/recruit.jpg) no-repeat;
   background-size:cover;
   width:48%;
   height:200px;
@@ -388,7 +388,7 @@ input, select {
 }
 
 #contact{
-  background:url(../../20210216_sato/img/contact-bg.jpg) no-repeat;
+  background:url(../img/contact-bg.jpg) no-repeat;
   background-size:cover;
   width:100%;
   height:300px;
